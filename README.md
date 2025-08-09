@@ -47,5 +47,5 @@ Perfect for:
 ### 1. Clone or download this repository
 
 ```bash
-git clone https://github.com/your-username/air-ascii-game.git
-cd air-ascii-game
+git clone https://github.com/sjat02/airascii
+
