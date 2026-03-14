@@ -1,4 +1,4 @@
-# ✈️ AIR ASCII Airplane Game
+# AIR ASCII Airplane Game
 
 A fun retro ASCII-style browser game where you control an airplane (`✈`) and dodge falling ASCII symbols with **alphabet-touch Game Over** and a **points system based on rarity**.
 
@@ -6,7 +6,7 @@ A fun retro ASCII-style browser game where you control an airplane (`✈`) and d
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - Use **arrow keys** to move the airplane in any direction (left, right, up, down).
 - Press **spacebar** to temporarily increase speed.
@@ -17,7 +17,7 @@ A fun retro ASCII-style browser game where you control an airplane (`✈`) and d
 
 ---
 
-## 🧠 Educational Value
+## Educational Value
 
 Not just fun — it's also a great tool for **learning and memorizing ASCII characters** and their names!
 
@@ -32,7 +32,7 @@ Perfect for:
 
 ---
 
-## 🧩 Features
+## Features
 
 - Retro-style design using monospace ASCII characters
 - Responsive controls with arrow keys + space for speed boost
@@ -49,7 +49,7 @@ Perfect for:
 
 ---
 
-## 🖥️ Run Locally
+## Run Locally
 
 ### 1. Clone or download this repository
 ```bash
